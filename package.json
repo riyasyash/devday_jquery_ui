@@ -1,0 +1,27 @@
+{
+  "name": "devday_jquery_ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyasyash/devday_jquery_ui.git"
+  },
+  "author": "riyasp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riyasyash/devday_jquery_ui/issues"
+  },
+  "homepage": "https://github.com/riyasyash/devday_jquery_ui#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "express-ejs-layouts": "^2.3.1",
+    "jquery": "^3.2.1",
+    "nodemon": "^1.11.0"
+  }
+}
